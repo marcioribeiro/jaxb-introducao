@@ -1,8 +1,11 @@
-AXB o que é ?
+JAXB - Introdução
+-----------------
 
+JAXB o que é ?
 Como diz a própria Oracle "Arquitetura Java para Binding XML"
 
 Introdução
+-----------
 
 A Extensible Markup Language (XML) se tornou padrão para troca de dados
 em sistemas distintos e a API JAXB surgiu para tornar mais fácil o 
@@ -20,6 +23,7 @@ Como JAXB é definida através de especificação, é possível que você se dep
 implementações para este padrão.
 
 JAXB - Java Architecture for XML Binding
+-----------------------------------------
 
 JAXB usa anotações para indicar elementos centrais vejamos algumas:
 

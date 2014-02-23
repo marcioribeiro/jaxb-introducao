@@ -1,5 +1,5 @@
-JAXB - Introdução
------------------
+JAXB
+----
 
 JAXB o que é ?
 Como diz a própria Oracle "Arquitetura Java para Binding XML"
